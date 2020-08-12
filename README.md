@@ -39,7 +39,7 @@ pip install googletrans
 ```
 
 [instagram]: https://instagram.com/alevidalsanchez
-[linkedin]: linkedin.com/in/alejandro-vidal-sanchez
+[linkedin]: https://linkedin.com/in/alejandro-vidal-sanchez
 
 ### How to use:
 

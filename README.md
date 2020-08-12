@@ -1,4 +1,4 @@
-### Hi I'm Alejandro :man_technologist:
+## Hi I'm Alejandro :man_technologist:
 
 ### You can contact me via:
 

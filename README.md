@@ -18,6 +18,8 @@
 
 # Python translator
 
+This is a script that open a window to translate strings, you can choose the language of the input and the output. The input can be automatically detected if you don't know the language.
+
 ### Requirements
 
 - python3
